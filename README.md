@@ -16,10 +16,9 @@
 
 1. Top-rated players overall
 2. Most stamina-endowed players
-3. Best finishers
-4. Players with most interceptions
-5. Country-wise distribution of top-rated players
-6. Player comparison: acceleration, ball control, dribbling, and strength
+3. Players with most interceptions
+4. Country-wise distribution of top-rated players
+5. Player comparison: acceleration, ball control, dribbling, and strength
 
 ## Dataset:
 - https://www.kaggle.com/datasets/maso0dahmed/football-players-data/data
